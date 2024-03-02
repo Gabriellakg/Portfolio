@@ -1,6 +1,6 @@
 # Biology Research
 
-Thi project is a concise showcase of my skills and achievements in IT. It highlights key projects, technical expertise, and professional growth.
+This project is a concise showcase of my skills and achievements in IT. It highlights key projects, technical expertise, and professional growth.
 
 ## Description
 
